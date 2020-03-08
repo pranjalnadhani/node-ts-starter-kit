@@ -1,2 +1,2 @@
-console.error('This is an error, which should be allowed')
-console.warn('This is a warning, which should also be allowed')
+export const sum = (...nums: Array<number>) =>
+  nums.reduce((prev, elem) => prev + elem, 0)
