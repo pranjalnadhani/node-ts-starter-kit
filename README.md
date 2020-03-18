@@ -13,3 +13,18 @@ A template for initialising a Node.js Typescript project.
 - [x] **Prettier** (Prettifies all the code files)
 - [x] **Jest** (Runs tests)
 - [x] **Github Actions CI** (Builds and run tests upon git push or PRs to the branch `master`)
+
+## Installation
+You can install dependencies using yarnby running:
+
+```
+yarn install
+```
+
+## Running Tests
+
+To run tests, run:
+
+```
+yarn test
+```
