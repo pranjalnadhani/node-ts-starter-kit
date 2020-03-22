@@ -50,9 +50,7 @@
     "typescript": "3.8.3",
     "validate-commit-msg": "2.14.0"
   },
-  "dependencies": {
-    "express": "4.17.1"
-  },
+  "dependencies": {},
   "config": {
     "commitizen": {
       "path": "./node_modules/cz-conventional-changelog"
