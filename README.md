@@ -15,7 +15,7 @@ A template for initialising a Node.js Typescript project.
 - [x] **Github Actions CI** (Builds and run tests upon git push or PRs to the branch `master`)
 
 ## Installation
-You can install dependencies using yarnby running:
+You can install dependencies using yarn by running:
 
 ```
 yarn install
