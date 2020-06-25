@@ -28,7 +28,7 @@
   "homepage": "https://github.com/pranjalnadhani/graphql-backend#readme",
   "devDependencies": {
     "@types/chai": "4.2.11",
-    "@types/jest": "26.0.0",
+    "@types/jest": "26.0.3",
     "@typescript-eslint/eslint-plugin": "2.34.0",
     "@typescript-eslint/parser": "2.34.0",
     "chai": "4.2.0",
