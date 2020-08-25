@@ -45,7 +45,7 @@
     "husky": "4.2.5",
     "jest": "25.5.4",
     "lint-staged": ">=10",
-    "prettier": "2.0.5",
+    "prettier": "2.1.0",
     "ts-jest": "25.5.1",
     "typescript": "3.9.7",
     "validate-commit-msg": "2.14.0"
