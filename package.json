@@ -44,7 +44,7 @@
     "eslint-plugin-standard": "5.0.0",
     "husky": "6.0.0",
     "jest": "25.5.4",
-    "lint-staged": ">=10",
+    "lint-staged": ">=11",
     "prettier": "2.2.1",
     "ts-jest": "25.5.1",
     "typescript": "3.9.9",
